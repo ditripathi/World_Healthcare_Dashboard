@@ -14,3 +14,5 @@
 
 Run : python app.py after installing requirements
 Open : localhost:5000/test
+
+Link to Video of Project: https://www.youtube.com/watch?v=QqNxA5XrZXQ&ab_channel=DineshTripathi
